@@ -1,5 +1,5 @@
 <?php
-    echo 'Привет, мир!';
+    echo 'Hello, world!!!';
     echo '<br>';
     phpinfo();
 ?>
